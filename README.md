@@ -4,6 +4,8 @@
 
 我的WCA頁面: https://www.worldcubeassociation.org/persons/2018TSAI03
 
+我的第一次練習時間: 2019-06-23 20:52:23
+
 ## Sessions:
 
 - 1: 3x3x3 Cube
