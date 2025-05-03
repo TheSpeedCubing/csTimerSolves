@@ -6,6 +6,9 @@
 
 我的第一次練習時間: 2019-06-23 20:52:23
 
+ao100 (100轉平均紀錄圖)
+![ao100](https://github.com/user-attachments/assets/b65416c9-8065-41d0-a7eb-3d26d54c9406)
+
 ## Sessions:
 
 - 1: 3x3x3 Cube
